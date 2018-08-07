@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CallControl2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_enter_name">Enter your name</string>
+    <string name="string_choose_username">Choose your username</string>
+    <string name="string_choose_password">Choose your password</string>
+    <string name="string_enter_email">Enter your email</string>
+    <string name="button_register">Register</string>
+    <string name="findContact">find person&#8230;</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
